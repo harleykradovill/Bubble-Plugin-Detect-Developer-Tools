@@ -1,0 +1,27 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 15,
+        "width": 15
+    },
+    "display": "Detect Devtools",
+    "events": {
+        "AAD": {
+            "caption": "Detected",
+            "doc": "When DevTools is detected",
+            "name": "detected"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAE": {
+            "caption": "detected",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "detected",
+            "value": "boolean"
+        }
+    }
+}

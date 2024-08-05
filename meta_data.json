@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "compliance",
+        "1": "productivity"
+    },
+    "description": "A simple plugin to detect if developer tools were opened on your website.",
+    "image": "//meta-q.cdn.bubble.io/f1722897285183x937227716953289200/chrome-devtools-icon-512x512-8iaxdppx.png",
+    "license": "open_source",
+    "name": "Detect Developer Tools",
+    "plugin_instructions": "- Place the DetectDevTools element on your page\n- Add an event in workflow, under Elements\n- Do what ever you want when dev tools were detected"
+}
